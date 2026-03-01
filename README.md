@@ -146,9 +146,7 @@ This project demonstrates the use of classical machine learning techniques for p
 
 ---
 
-| | |
 |---|---|
-| **Author** | Your Name |
+| **Author** | Shreya, Aryan Kumar, Pranjal, Ritesh |
 | **Course** | ML Capstone |
-| **Milestone** | 1 |
-| **Institution** | [College Name] |\n
+| **Milestone** | 1 |\n
