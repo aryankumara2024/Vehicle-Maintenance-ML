@@ -1,4 +1,4 @@
-# 🚗 Vehicle Maintenance Risk Prediction
+#  Vehicle Maintenance Risk Prediction
 
 > **ML Capstone Project – Milestone 1**
 
