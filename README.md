@@ -151,3 +151,5 @@ This project demonstrates the use of classical machine learning techniques for p
 | **Author** | Shreya, Aryan Kumar, Pranjal, Ritesh |
 | **Course** | ML Capstone |
 | **Milestone** | 1 |\n
+
+Progress: Completed
